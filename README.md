@@ -7,8 +7,8 @@ After sending the message goes to the emails of the author and administrator.
 
 ## Tools
 
-- Python
-- Django
+- Python 3.10
+- Django 4+
 - Celery
 - Redis
 
