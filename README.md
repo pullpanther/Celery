@@ -4,6 +4,8 @@ Feedback form with fields - email and text field.
 
 After sending the message goes to the emails of the author and administrator.
 
+In docker: Django app, Celery and Redis.
+
 
 ## Tools
 
