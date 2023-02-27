@@ -13,4 +13,4 @@ In docker: Django app, Celery and Redis.
 - Django 4+
 - Celery
 - Redis
-
+- Docker
